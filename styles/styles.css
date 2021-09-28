@@ -252,3 +252,127 @@
     display: flex;
     justify-content: space-between;
 }
+.footer-background-image{
+    background-image: url(../images/footer-image.jpg);
+    width: 100%;
+    height: 395px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: relative;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center;
+    justify-content: space-around; */
+}
+.container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 90px;
+    margin-bottom: 54px;
+}
+.footer-div-1{
+    max-width: 260px;
+    width: 100%;
+    height: 191px;
+    /* background-color: burlywood; */
+    display: flex;
+    flex-direction: column;
+}
+.footer-text{
+    color:#B1B1B1;
+    font-size:14px;
+    font-family: 'Poppins', sans-serif;
+    margin:20px auto;
+}
+.fa-facebook{
+    color: #3B5998;
+    font-size: 30px;
+}
+.fa-twitter-square{
+    color: #55ACEE;
+    font-size: 30px;
+}
+.fa-google-plus{
+    color:#DC4E41;
+    font-size: 30px;
+}
+.footer-div-2{
+    max-width: 650px;
+    width: 100%;
+    height: 191px;
+    /* background-color: burlywood; */
+    display: flex;
+    justify-content: space-between;
+}
+.links-div{
+    max-width: 103px;
+    width: 100%;
+    height: 191px;
+    /* background-color: cadetblue; */
+    display: flex;
+    flex-direction: column;
+}
+.footer-headings{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 20px;
+}
+.footer-links{
+    color: #5863F8;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 20px;
+}
+.privacy-div{
+    max-width: 103px;
+    width: 100%;
+    height: 191px;
+    /* background-color: cadetblue; */
+    display: flex;
+    flex-direction: column;
+}
+.contact-div{
+    max-width: 198px;
+    width: 100%;
+    height: 191px;
+    /* background-color: cadetblue; */
+    display: flex;
+    flex-direction: column;
+}
+.fa-envelope{
+    color: #5863F8;
+    font-size: 20px;
+}
+.footer-info{
+    color: #FFFFFF;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+}
+.fa-phone-alt{
+    color: #5863F8;
+    font-size: 20px;
+}
+.fa-map-marker-alt{
+    color: #5863F8;
+    font-size: 20px;
+}
+.info-div{
+    margin-top: 20px;
+}
+.copyright{
+    max-width: 1088px;
+    width: 100%;
+    /* background-color: white; */
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer-p{
+    color:#B1B1B1;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+}
