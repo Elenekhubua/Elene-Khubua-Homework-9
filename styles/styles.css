@@ -135,7 +135,12 @@
     border: 2px solid #E8E8E8;
     resize: none;
 }
-.textarea1::placeholder,
+.textarea1::placeholder{
+    color:#CECECE;
+    font-size: 13px;
+    font-family: 'Poppins', sans-serif;
+    padding-left:20px;
+}
 .input-class::placeholder{
     color:#CECECE;
     font-size: 13px;
@@ -293,6 +298,8 @@
 .fa-twitter-square{
     color: #55ACEE;
     font-size: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 .fa-google-plus{
     color:#DC4E41;
