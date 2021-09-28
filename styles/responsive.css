@@ -5,6 +5,10 @@
     .header-div-1{
         width: 90%;
     }
+    .header-nav{
+        max-width: 400px;
+        width: 100%;
+    }
     .map-div{
         width:90%;
     }
@@ -45,6 +49,9 @@
     }
 }
 @media(max-width:768px){
+    .header-heading{
+        font-size: 30px;
+    }
     .section2-heading{
         font-size: 30px;
     }
