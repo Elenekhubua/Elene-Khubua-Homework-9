@@ -1,0 +1,148 @@
+@media (max-width:1024px){
+    .header-background-image{
+        height: auto;
+    }
+    .header-div-1{
+        width: 90%;
+    }
+    .map-div{
+        width:90%;
+    }
+    .section2-div{
+        width: 90%;
+    }
+    .section2-heading{
+        font-size: 35px;
+    }
+    .textarea1{
+        width: 95%;
+    }
+    .section2-div3{
+        width: 90%;
+    }
+    .section3-div1{
+        width: 90%;
+    }
+    .section3-heading{
+        font-size: 35px;
+    }
+    .section3-div2{
+        width: 100%;
+    }
+    .section3-image{
+        max-width:250px;
+        width:90%;
+        height: auto;
+    }
+    .footer-div-1{
+        width: 90%;
+    }
+    .footer-div-2{
+        width: 90%;
+    }
+    .copyright{
+        width: 90%;
+    }
+}
+@media(max-width:768px){
+    .section2-heading{
+        font-size: 30px;
+    }
+    .section3-heading{
+        font-size: 30px;
+    }
+    .section3-image{
+        max-width: 200px;
+        width: 100%;
+    }
+    .footer-background-image{
+        height: auto;
+    }
+    .footer-div-1{
+        width: 50%;
+    }
+    .footer-div-2{
+        width: 50%;
+    }
+    .footer-text{
+        font-size: 10px;
+    }
+    .fa-facebook{
+        font-size: 20px;
+    }
+    .fa-twitter-square{
+        font-size: 20px;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .fa-google-plus{
+        font-size: 20px;
+    }
+    .footer-headings{
+        font-size: 12px;
+    }
+    .footer-links{
+        font-size: 10px;
+    }
+    .footer-info{
+        font-size: 10px;
+    }
+    .fa-envelope{
+        font-size: 15px;
+    }
+    .fa-phone-alt{
+        font-size: 15px;
+    }
+    .fa-map-marker-alt{
+        font-size: 15px;
+    }
+    .copyright{
+        width: 80%;
+        margin-bottom: 20px;
+    }
+    .footer-p{
+        font-size: 10px;
+    }
+    .span-link{
+        font-size: 10px;
+    }
+}
+@media(max-width:650px){
+    .header-nav{
+        display: none;
+    }
+    .fa-bars{
+        display: block;
+        color: white;
+    }
+    .header-heading{
+        font-size: 25px;
+    }
+    .section2-heading{
+        font-size: 25px;
+    }
+    .small-div{
+        max-width: 40px;
+        width: 100%;
+        height: 40px;
+    }
+    .small-div-heading{
+        font-size: 14px;
+    }
+    .small-div-a{
+        font-size: 10px;
+    }
+    .section3-heading{
+        font-size: 25px;
+    }
+    .section3-image{
+        max-width: 150px;
+        width: 100%;
+    }
+    .footer-p{
+        font-size: 7px;
+    }
+    .span-link{
+        font-size: 7px;
+    }
+}
