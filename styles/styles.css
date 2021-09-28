@@ -139,6 +139,7 @@
     color:#CECECE;
     font-size: 13px;
     font-family: 'Poppins', sans-serif;
+    padding-top: 10px;
     padding-left:20px;
 }
 .input-class::placeholder{
