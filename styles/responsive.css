@@ -121,6 +121,7 @@
     .fa-bars{
         display: block;
         color: white;
+        font-size: 25px;
     }
     .header-heading{
         font-size: 25px;
@@ -151,5 +152,120 @@
     }
     .span-link{
         font-size: 7px;
+    }
+}
+@media(max-width:480px){
+    .header-background-image{
+        height: 240px;
+    }
+    .header-div-2{
+        margin-top: 70px;
+        margin-left: 50px;
+    }
+    .header-heading{
+        font-size: 20px;
+    }
+    .section2-heading{
+        font-size: 20px;
+    }
+    /* .right-box{
+        height: auto;
+    } */
+    .textarea1{
+        height:auto;
+    }
+    .input-class{
+        height:auto ;
+        margin-bottom: 20px;
+    }
+    .button-class{
+        height:auto ;
+    }
+    .click{
+        width: 10px; ;
+    }
+    .small-div{
+        max-width: 30px;
+        width: 100%;
+        height: 30px;
+    }
+    .small-div-heading{
+        font-size: 12px;
+    }
+    .small-div-a{
+        font-size: 8px;
+    }
+    .section3-heading{
+        font-size: 20px;
+    }
+    .section3-div2{
+
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .section3-image{
+        max-width: 290px;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .container{
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .footer-div-1{
+        max-width: 290px;
+        width: 100%;
+        height: auto;
+    }
+    .footer-text{
+        font-size: 14px;
+    }
+    .footer-div-2{
+        max-width: 290px;
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: center;
+        height: auto;
+    }
+    .links-div{
+        max-width: 290px;
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 20px;
+        height: auto;
+    }
+    .footer-headings{
+        font-size: 14px;
+        margin-bottom: 2px;
+    }
+    .footer-links{
+        font-size: 14px;
+        margin-top: 7px;
+    }
+    .privacy-div{
+        max-width: 290px;
+        width: 100%;
+        margin-bottom: 20px;
+        height: auto;
+    }
+    .contact-div{
+        max-width: 290px;
+        width: 100%;
+        margin-bottom: 20px;
+        height: auto;
+    }
+    .fa-envelope{
+        font-size: 25px;
+    }
+    .footer-info{
+        font-size: 16px;
+    }
+    .fa-phone-alt{
+        font-size: 25px;
+    }
+    .fa-map-marker-alt{
+        font-size: 25px;
     }
 }
