@@ -1,3 +1,10 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
 @media (max-width:1024px){
     .header-background-image{
         height: auto;
@@ -46,8 +53,11 @@
     }
     .copyright{
         width: 100%;
-        flex-wrap: wrap;
-        justify-content: center;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
     }
     .wrap{
         width: 100%;
@@ -193,8 +203,12 @@
     }
     .section3-div2{
 
-        flex-wrap: wrap;
-        justify-content: center;
+        -ms-flex-wrap: wrap;
+
+            flex-wrap: wrap;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
     }
     .section3-image{
         max-width: 290px;
@@ -202,8 +216,11 @@
         margin-bottom: 10px;
     }
     .container{
-        flex-wrap: wrap;
-        justify-content: center;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
         margin-top: 0;
         margin-bottom: 0;
     }
@@ -218,8 +235,11 @@
     .footer-div-2{
         max-width: 290px;
         width: 100%;
-        flex-wrap: wrap;
-        justify-content: center;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
         height: auto;
     }
     .links-div{
@@ -262,8 +282,11 @@
         font-size: 18px;
     }
     .copyright{
-        flex-wrap: wrap;
-        justify-content: center;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
     }
     .footer-p{
         font-size: 12px;
