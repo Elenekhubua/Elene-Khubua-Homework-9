@@ -45,7 +45,15 @@
         width: 90%;
     }
     .copyright{
-        width: 90%;
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .wrap{
+        width: 100%;
+    }
+    .footer-end-div{
+        width: 100%;
     }
 }
 @media(max-width:768px){
@@ -107,12 +115,6 @@
         width: 80%;
         margin-bottom: 20px;
     }
-    .footer-p{
-        font-size: 10px;
-    }
-    .span-link{
-        font-size: 10px;
-    }
 }
 @media(max-width:650px){
     .header-nav{
@@ -146,12 +148,6 @@
     .section3-image{
         max-width: 150px;
         width: 100%;
-    }
-    .footer-p{
-        font-size: 7px;
-    }
-    .span-link{
-        font-size: 7px;
     }
 }
 @media(max-width:480px){
@@ -267,5 +263,9 @@
     }
     .fa-map-marker-alt{
         font-size: 25px;
+    }
+    .copyright{
+        flex-wrap: wrap;
+        justify-content: center;
     }
 }

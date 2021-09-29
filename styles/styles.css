@@ -406,9 +406,14 @@
     font-size: 14px;
     font-family: 'Poppins', sans-serif;
 }
-.span-link{
+.span-text{
     color: #5863F8;
     font-size: 14px;
     font-family: 'Poppins', sans-serif;
     margin-left: 3px;
+}
+.footer-end{
+    color: #5863F8;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
 }
