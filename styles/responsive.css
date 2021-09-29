@@ -213,7 +213,7 @@
         height: auto;
     }
     .footer-text{
-        font-size: 14px;
+        font-size: 12px;
     }
     .footer-div-2{
         max-width: 290px;
@@ -230,11 +230,11 @@
         height: auto;
     }
     .footer-headings{
-        font-size: 14px;
+        font-size: 12px;
         margin-bottom: 2px;
     }
     .footer-links{
-        font-size: 14px;
+        font-size: 12px;
         margin-top: 7px;
     }
     .privacy-div{
@@ -250,19 +250,25 @@
         height: auto;
     }
     .fa-envelope{
-        font-size: 22px;
+        font-size: 18px;
     }
     .footer-info{
-        font-size: 14px;
+        font-size: 12px;
     }
     .fa-phone-alt{
-        font-size: 22px;
+        font-size: 18px;
     }
     .fa-map-marker-alt{
-        font-size: 22px;
+        font-size: 18px;
     }
     .copyright{
         flex-wrap: wrap;
         justify-content: center;
+    }
+    .footer-p{
+        font-size: 12px;
+    }
+    .footer-end{
+        font-size: 12px;
     }
 }
