@@ -253,16 +253,16 @@
         height: auto;
     }
     .fa-envelope{
-        font-size: 25px;
+        font-size: 22px;
     }
     .footer-info{
-        font-size: 16px;
+        font-size: 14px;
     }
     .fa-phone-alt{
-        font-size: 25px;
+        font-size: 22px;
     }
     .fa-map-marker-alt{
-        font-size: 25px;
+        font-size: 22px;
     }
     .copyright{
         flex-wrap: wrap;
